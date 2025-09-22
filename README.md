@@ -1,4 +1,9 @@
 # E-commerce Back-End – Projeto 1
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-6.x-brightgreen?logo=mongodb)
+![Mongoose](https://img.shields.io/badge/Mongoose-7.x-red?logo=mongoose)
+![Winston](https://img.shields.io/badge/Winston-Logging-lightgrey?logo=winston)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
 
 ## Descrição
 
